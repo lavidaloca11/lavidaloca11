@@ -13,8 +13,8 @@ I build apps end to end: interface, cloud backend, subscriptions, AI features an
 
 ## Projects
 
-- **DoggyLife**: a care app for dog owners with health records, walks, an AI assistant, family chat and a lost-and-found board. Live on Google Play in 178 countries and 19 languages; the App Store version is in review.<br>
-  **[Get it on Google Play](https://play.google.com/store/apps/details?id=app.doggylife.doggy_life)** · [Project page](https://github.com/lavidaloca11/doggylife-app)
+- **DoggyLife**: a care app for dog owners with health records, walks, an AI assistant, family chat and a lost-and-found board. Available on the App Store and Google Play in 19 languages.<br>
+  **[Download on the App Store](https://apps.apple.com/app/id6820760584)** · **[Get it on Google Play](https://play.google.com/store/apps/details?id=app.doggylife.doggy_life)** · [Project page](https://github.com/lavidaloca11/doggylife-app)
 - **Surf Indonesia**: a Telegram bot and Mini App for surfers with spot conditions across Indonesia, a personal surfer profile and an AI assistant.<br>
   **[Open @SurfIndoBot in Telegram](https://t.me/SurfIndoBot)** · [Project page](https://github.com/lavidaloca11/surf-indonesia)
 
