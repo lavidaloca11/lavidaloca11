@@ -22,7 +22,7 @@ I build apps end to end: interface, cloud backend, subscriptions, AI features an
 
 ## Tech
 
-`Flutter` `Dart` `Swift` `Python` `FastAPI` `TypeScript` `React` `PostgreSQL` `Supabase` `Google Cloud` `Firebase` `Telegram Bot API` `AI APIs`
+`Flutter` `Dart` `Swift` `Python` `FastAPI` `JavaScript` `TypeScript` `React` `HTML` `CSS` `Three.js` `WebGL` `3D models (glTF)` `Web Audio API` `Canvas 2D` `Node.js` `esbuild` `PostgreSQL` `Supabase` `Google Cloud` `Firebase` `Telegram Bot API` `AI APIs` `Git`
 
 ## Work with me
 
