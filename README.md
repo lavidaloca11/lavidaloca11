@@ -17,6 +17,8 @@ I build apps end to end: interface, cloud backend, subscriptions, AI features an
   **[Download on the App Store](https://apps.apple.com/app/id6820760584)** · **[Get it on Google Play](https://play.google.com/store/apps/details?id=app.doggylife.doggy_life)** · [Project page](https://github.com/lavidaloca11/doggylife-app)
 - **Surf Indonesia**: a Telegram bot and Mini App for surfers with spot conditions across Indonesia, a personal surfer profile and an AI assistant.<br>
   **[Open @SurfIndoBot in Telegram](https://t.me/SurfIndoBot)** · [Project page](https://github.com/lavidaloca11/surf-indonesia)
+- **AppFlow**: my studio website with an interactive 3D scene. A desk with MacBooks and iPhones showing real app and website screens, notebooks that open as you scroll, Russian and English versions, and calm background music. Built with Three.js and plain HTML and CSS, hosted on Firebase.<br>
+  **[Open the website](https://appflow-dev.web.app)**
 
 ## Tech
 
@@ -24,4 +26,4 @@ I build apps end to end: interface, cloud backend, subscriptions, AI features an
 
 ## Work with me
 
-Open to freelance projects: https://appflow-dev.web.app
+Open to freelance projects: [appflow-dev.web.app](https://appflow-dev.web.app)
