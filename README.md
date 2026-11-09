@@ -1,6 +1,6 @@
 # Hi, I'm Igor 👋
 
-**Mobile & web app developer · Telegram bots and Mini Apps**
+**Mobile & web app developer · Telegram bots and Mini Apps · 3D websites**
 
 I build apps end to end: interface, cloud backend, subscriptions, AI features and store releases.
 
@@ -8,6 +8,7 @@ I build apps end to end: interface, cloud backend, subscriptions, AI features an
 
 - **Mobile apps (iOS & Android)**: Flutter and Dart, in-app subscriptions, push notifications, App Store and Google Play publishing
 - **Web apps and sites**: responsive and fast, hosted on Firebase and Google Cloud
+- **3D websites**: interactive WebGL scenes with Three.js, 3D models and real app screens on the page
 - **Telegram bots and Mini Apps**: bots with an in-chat web app, AI assistants, live data
 - **Backends and integrations**: Python and FastAPI, PostgreSQL (Supabase), Google Cloud Run, AI model APIs
 
